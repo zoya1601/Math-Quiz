@@ -1,0 +1,22 @@
+.body_background 
+{
+    background-image: url("backgrond.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+.login_div1
+	{
+		background-color: violet;
+		padding: 5px;
+		float: none;
+		border-radius: 2px;
+	}
+	#output
+{
+background: cyan;
+border-radius: 10px;
+border-top: 10px solid violet;
+padding: 10px;
+float: none;
+text-align: left;
+}
